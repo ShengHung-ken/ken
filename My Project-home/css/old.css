@@ -1,0 +1,63 @@
+h1{
+    font-weight: bold;
+    color:maroon;
+    background-color: rgb(93, 170, 93);
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
+h2{
+    font-weight: lighter;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    padding: 5px;
+}
+p{
+    color: green;
+    text-indent: 2em;
+    line-height: 1.5em;
+}
+
+ol{
+    list-style-type: upper-alpha;
+}
+
+header{
+    background-color: palegoldenrod;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 0px 0px 20px 0px;
+
+}
+
+main{
+    background-color: rgb(57, 129, 129);
+    padding: 1px 20px;
+    border-radius: 20px;
+    height: 400px;
+    overflow: scroll;
+}
+
+section{
+    background-color: skyblue;
+    padding: 20px;
+    margin: 20px 0px;
+    border-radius: 20px;
+}
+
+footer{
+    background-color: purple;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.edu{
+    font-weight: bold;
+    color:maroon;
+    background-color: fuchsia;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 20px;
+}
